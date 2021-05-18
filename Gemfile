@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'celluloid-io'
 gem 'dotenv'
 gem 'mongoid', '~> 6.1.0'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 gem 'sinatra', '~> 2.0.1'
 gem 'slack-ruby-bot'
 
